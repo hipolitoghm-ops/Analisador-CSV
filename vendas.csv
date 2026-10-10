@@ -1,0 +1,70 @@
+nome,pn,sn,cff,preco,categoria,lote,validade
+Caneta esferográfica azul,CAN-001,SN-1001,BIC,2.50,Classe geral,,
+Lápis preto HB nº2,LAP-002,SN-1002,Faber-Castell,1.80,Classe geral,,
+Borracha branca pequena,BOR-003,SN-1003,Faber-Castell,1.20,Classe geral,,
+Papel A4 resma 500fls,PAP-004,SN-1004,Chamex,32.90,Classe geral,,
+Grampeador metálico 26/6,GRA-005,SN-1005,3M,45.00,Classe geral,,
+Fita adesiva transparente 12mm,FIT-006,SN-1006,3M,8.50,Classe geral,,
+Marcador permanente preto,MAR-007,SN-1007,Pilot,6.90,Classe geral,,
+Pasta arquivo morto lombada larga,PAS-008,SN-1008,Tilibra,18.90,Classe geral,,
+Clips metálicos 2/0 caixa,CLI-009,SN-1009,ACC,4.50,Classe geral,,
+Tesoura escolar sem ponta,TES-010,SN-1010,Mundial,12.30,Classe geral,,
+Detergente neutro 500ml,DET-011,SN-1011,Ypê,4.75,Classe geral,L2024A,2025-08-15
+Álcool em gel 70% 500ml,ALC-012,SN-1012,Rioquímica,12.90,Classe geral,L2024B,2025-08-20
+Desinfetante hospitalar 1L,DES-013,SN-1013,Lysoform,15.75,Classe geral,L2024C,2026-03-20
+Saco de lixo 100L reforçado,SAC-014,SN-1014,Embalixo,22.40,Classe geral,,
+Esponja de aço multiuso,ESP-015,SN-1015,Bombril,3.20,Classe geral,,
+Água sanitária 2L,AGS-016,SN-1016,Qboa,9.80,Classe geral,L2024D,2026-01-10
+Sabão em pó 1kg,SAB-017,SN-1017,Omo,18.50,Classe geral,L2024E,2026-05-30
+Multiuso limpeza 500ml,MUL-018,SN-1018,Veja,7.90,Classe geral,L2024F,2025-12-15
+Colete salva-vidas adulto 150N,SSS-001,SN-2001,Rafting,890.00,SSS,L2024G,2028-05-10
+Boia circular 70cm com cabo,SSS-002,SN-2002,Infla,320.00,SSS,,
+Extintor PQS 4kg,SSS-003,SN-2003,Kidde,180.00,SSS,L2024H,2026-12-31
+Kit primeiros socorros completo,SSS-004,SN-2004,Instituto CQ,450.00,SSS,L2024I,2026-06-30
+Lanterna de emergência LED,SSS-005,SN-2005,Rayovac,75.00,SSS,,
+Sinalizador marítimo paraquedas,SSS-006,SN-2006,Pains Wessex,290.00,SSS,L2024J,2027-02-28
+Máscara de oxigênio tripulação,SSS-007,SN-2007,B/E Aerospace,1250.00,SSS,L2024K,2027-09-15
+Cinto de segurança 3 pontos,SSS-008,SN-2008,Condor,520.00,SSS,,
+Bote salva-vidas 6 pessoas,SSS-009,SN-2009,Rafting,8500.00,SSS,L2024L,2030-01-20
+Paraquedas de emergência,SSS-010,SN-2010,Strong Enterprises,12000.00,SSS,L2024M,2029-11-30
+Colete refletivo classe II,SSS-011,SN-2011,Volk,45.00,SSS,,
+Capacete de resgate,SSS-012,SN-2012,Petzl,680.00,SSS,L2024N,2029-04-15
+Corda de resgate 30m,SSS-013,SN-2013,Cordas Brasil,320.00,SSS,L2024O,2030-02-28
+Sinal luminoso estroboscópico,SSS-014,SN-2014,Aeroled,150.00,SSS,,
+Apito de emergência,SSS-015,SN-2015,Fox 40,25.00,SSS,,
+Bússola aeronáutica,AVI-001,SN-3001,Honeywell,3200.00,Aviação,L2024P,2028-04-15
+Altímetro digital,AVI-002,SN-3002,Collins Aerospace,5500.00,Aviação,L2024Q,2028-07-22
+Velocímetro aeronáutico,AVI-003,SN-3003,Collins Aerospace,4800.00,Aviação,,
+Filtro de óleo aeronáutico,AVI-004,SN-3004,Safran,890.00,Aviação,L2024R,2026-09-10
+Cabo de comando de aço,AVI-005,SN-3005,Embraer,1450.00,Aviação,,
+Bomba de combustível auxiliar,AVI-006,SN-3006,Honeywell,3200.00,Aviação,L2024S,2027-12-01
+Gerador auxiliar APU,AVI-007,SN-3007,Honeywell,15000.00,Aviação,L2024T,2029-03-18
+Rádio comunicador VHF,AVI-008,SN-3008,Collins Aerospace,8500.00,Aviação,L2024U,2028-06-25
+Vela de ignição aeronáutica,AVI-009,SN-3009,Champion,180.00,Aviação,,
+Hélice de alumínio 2 pás,AVI-010,SN-3010,Hartzell,25000.00,Aviação,L2024V,2029-08-14
+Atuador hidráulico de flap,AVI-011,SN-3011,Parker Hannifin,7800.00,Aviação,L2024W,2028-10-05
+Sensor de pressão estática,AVI-012,SN-3012,Thales,2200.00,Aviação,L2024X,2027-03-22
+Trem de pouso dianteiro,AVI-013,SN-3013,Safran Landing Systems,45000.00,Aviação,,
+Antena GPS aeronáutica,AVI-014,SN-3014,Garmin,1850.00,Aviação,L2024Y,2029-01-30
+Multímetro aeronáutico,AVI-015,SN-3015,Fluke,3200.00,Aviação,,
+Chave de torque calibrada,AVI-016,SN-3016,Snap-on,1450.00,Aviação,L2024Z,2030-06-15
+Óleo lubrificante aeronáutico 1L,AVI-017,SN-3017,Mobil,180.00,Aviação,L2025A,2027-08-20
+Bateria aeronáutica 24V,AVI-018,SN-3018,Concorde,4500.00,Aviação,L2025B,2028-11-10
+Pistola calibre .40,MAT-001,SN-4001,Taurus,5500.00,Material bélico,L2025C,2035-01-15
+Fuzil de assalto 5.56mm,MAT-002,SN-4002,IMBEL,12000.00,Material bélico,L2025D,2035-06-20
+Carabina calibre 5.56,MAT-003,SN-4003,Taurus,8500.00,Material bélico,L2025E,2035-04-10
+Munição 9mm caixa 50un,MAT-004,SN-4004,CBC,180.00,Material bélico,L2025F,2028-02-28
+Munição .40 caixa 50un,MAT-005,SN-4005,CBC,220.00,Material bélico,L2025G,2028-05-15
+Colete balístico nível III-A,MAT-006,SN-4006,Condor,2500.00,Material bélico,L2025H,2027-10-15
+Capacete balístico MICH,MAT-007,SN-4007,Ops-Core,890.00,Material bélico,L2025I,2029-05-20
+Coldre tático velcro,MAT-008,SN-4008,Condor,150.00,Material bélico,,
+Joelheira tática,MAT-009,SN-4009,Blackhawk,180.00,Material bélico,,
+Cotoveleira tática,MAT-010,SN-4010,Blackhawk,160.00,Material bélico,,
+Óculos balísticos,MAT-011,SN-4011,ESS,220.00,Material bélico,,
+Rádio militar VHF,MAT-012,SN-4012,Harris,3500.00,Material bélico,L2025J,2030-04-10
+Luva tática anticorte,MAT-013,SN-4013,Mechanix,120.00,Material bélico,,
+Granada de treino inerte,MAT-014,SN-4014,Condor,450.00,Material bélico,L2025K,2026-11-30
+Lanterna tática 800 lumens,MAT-015,SN-4015,SureFire,780.00,Material bélico,,
+Bandoleira tática ajustável,MAT-016,SN-4016,Condor,90.00,Material bélico,,
+Uniforme tático ripstop,MAT-017,SN-4017,Nomex,650.00,Material bélico,,
+Coturno tático couro,MAT-018,SN-4018,Bull Terrier,890.00,Material bélico,,

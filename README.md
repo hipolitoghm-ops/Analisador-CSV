@@ -24,13 +24,14 @@ de fazer uma análise dos dados apanhados.
 
 ## Exemplo de saída
 
-`--------------------------------------------------
+```
+--------------------------------------------------
            ESTATÍSTICAS - CLASSE GERAL            
 --------------------------------------------------
 1 - Preço médio da categoria: 12.76
 2 - Preço máximo da categoria: 45.0
-3 - Preço mínimo da categoria: 1.2`
-
+3 - Preço mínimo da categoria: 1.2
+```
 ## Sobre o projeto
 
 Apesar de ser um projeto simples de análise e tratamento de dados, foi de grande aprendizado
@@ -38,4 +39,4 @@ para um contato inicial de como lidar com as informações de um arquivo CSV e c
 
 ## Autor
 
-Gabriel Hipólito — [@hipolitoghm-ops](https://github.com/hipolitoghm-ops)
+Gabriel Hipólito — [@hipolitoghm-ops](https://github.com/hipolito)
